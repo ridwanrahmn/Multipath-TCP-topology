@@ -1,7 +1,7 @@
 # Multipath-TCP-topology
 
 
-Multipath TCP (MPTCP) adalah metode yang menggunakan beberapa IP address/interface secara simultan dengan dasar dari modifikasi TCP biasa. Manfaat dari MPTCP adalah pemanfaatan sumber daya dan throughput yang lebih baik, serta lebih peka terhadap kegagalan.
+Multipath TCP (MPTCP) adalah metode yang menggunakan beberapa IP address/interface secara simultan dengan dasar TCP biasa yang dimodifikasi. Manfaat dari MPTCP adalah pemanfaatan sumber daya dan throughput yang lebih baik, serta lebih peka terhadap kegagalan.
 
 Simulasi dapat dilakukan dengan menggunakan Mininet-WiFi. Topologi dibuat dengan memanfaatkan miniedit pada Mininet-WiFi sehingga akan lebih mudah. Topologi MPTCP yang dibuat terdiri dari Controller, STA1 (client), AP1, AP2, S5, S6, S7 dan h4. Bentuk topologinya dapat dilihat pada file image-topo-mptcp.jpg.
 
